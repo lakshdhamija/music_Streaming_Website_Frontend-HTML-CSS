@@ -1,1 +1,0 @@
-To be redirected to the playlist page, click on any one of the 3 featured images in the index.html page.
